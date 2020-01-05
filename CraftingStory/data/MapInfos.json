@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Oberwelt","order":1,"parentId":0,"scrollX":6552,"scrollY":3688},
-{"id":2,"expanded":false,"name":"Norleigh","order":2,"parentId":1,"scrollX":6552,"scrollY":3688},
-{"id":3,"expanded":false,"name":"Florelia","order":3,"parentId":1,"scrollX":6552,"scrollY":3688},
-{"id":4,"expanded":false,"name":"Reiveria","order":4,"parentId":1,"scrollX":6552,"scrollY":3688}
+{"id":1,"expanded":true,"name":"Oberwelt","order":1,"parentId":0,"scrollX":6552,"scrollY":3688},
+{"id":2,"expanded":false,"name":"Norleigh","order":2,"parentId":0,"scrollX":6552,"scrollY":3688},
+{"id":3,"expanded":false,"name":"Florelia","order":3,"parentId":0,"scrollX":6552,"scrollY":3688},
+{"id":4,"expanded":false,"name":"Reiveria","order":4,"parentId":0,"scrollX":6552,"scrollY":3688}
 ]
