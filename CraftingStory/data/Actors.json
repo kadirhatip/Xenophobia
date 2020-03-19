@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"held_kämpfer","characterIndex":0,"characterName":"held_bewegung","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"held_gesicht","traits":[],"initialLevel":1,"maxLevel":99,"name":"Crafter","nickname":"Crafty","note":"","profile":"Ein Niemand"}
+{"id":1,"battlerName":"held_kämpfer","characterIndex":0,"characterName":"held_bewegung","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"held_gesicht","traits":[],"initialLevel":1,"maxLevel":99,"name":"Held ohne Namen","nickname":"Hon","note":"","profile":"Ein Niemand"}
 ]
